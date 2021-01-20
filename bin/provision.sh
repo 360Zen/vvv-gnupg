@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #gnupg
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+# DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
 install_gnupg_php() {
     echo "Installing GnuPG for PHP"
